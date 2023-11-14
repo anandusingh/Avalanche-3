@@ -42,4 +42,4 @@ The `burn` function allows any user to burn (destroy) their own tokens.
 - `amount` (uint256): The amount of tokens to burn.
 
 ## Author
-Ashutosh
+Anandu Singh
